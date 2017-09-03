@@ -9,7 +9,7 @@ Because I got really enthusiastic about radare2 and I want more and more researc
 
 #### Articles:
 - [x] [Part 1 – Introduction, Simple Crackme](https://www.megabeets.net/a-journey-into-radare-2-part-1/)
-- [ ] Part 2 – Exploitation
+- [x] [Part 2 – Exploitation](https://www.megabeets.net/a-journey-into-radare-2-part-2/)
 - [ ] part 3 - Scripting
 - [ ] part 4 - Malware Analysis
 
