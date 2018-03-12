@@ -19,7 +19,7 @@ Because I got really enthusiastic about radare2 and I want more and more researc
 #### Others:
 
 * [x] [Reverse engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2)
-* [x] [Reverse engineering a self-modifying binary with radare2](https://www.megabeets.net/reversing-a-self-modifying-binary-with-radare2)
+* [x] [Reversing a self-modifying binary with radare2](https://www.megabeets.net/reversing-a-self-modifying-binary-with-radare2)
 
 <br><br>
 Feel free to [contact me](https://www.megabeets.net/about.html#contact) with any question or thought you have.
