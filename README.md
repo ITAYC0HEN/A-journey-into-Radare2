@@ -13,8 +13,8 @@ Because I got really enthusiastic about radare2 and I want more and more researc
 
 * [x] [Part 1 – Introduction, Simple Crackme](https://www.megabeets.net/a-journey-into-radare-2-part-1/)
 * [x] [Part 2 – Exploitation](https://www.megabeets.net/a-journey-into-radare-2-part-2/)
-* [ ] Part 3 - Scripting
-* [ ] Part 4 - Malware Analysis
+* [x] Part 3 - Cutter, Scripting and Malware Analysis ([Part 1](https://www.megabeets.net/decrypting-dropshot-with-radare2-and-cutter-part-1), Part 2)
+
 
 #### Others:
 
