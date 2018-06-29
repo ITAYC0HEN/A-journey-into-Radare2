@@ -7,7 +7,7 @@
   <img src="https://i1.wp.com/www.megabeets.net/uploads/r2_part1_1.png"/>
 </p>
 <br>
-Because I got really enthusiastic about radare2 and I want more and more researchers to be familiar with it, use it and hopefully contribute to the project, I decided to create a series of articles and use-cases of r2. Since these articles aim to teach you the basics of radare2, its features and capabilities.
+Because I got really enthusiastic about radare2 and I want more and more researchers to be familiar with it, use it and hopefully contribute to the project, I decided to create a series of articles and use-cases of r2. These articles aim to teach you the basics of radare2, its features and capabilities.
 
 #### Articles:
 
