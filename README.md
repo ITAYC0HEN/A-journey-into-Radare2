@@ -16,7 +16,7 @@ Because I got really enthusiastic about radare2 and I want more and more researc
 * [x] Part 3 - Cutter, Scripting and Malware Analysis ([Part 1](https://www.megabeets.net/decrypting-dropshot-with-radare2-and-cutter-part-1), [Part 2](https://www.megabeets.net/decrypting-dropshot-with-radare2-and-cutter-part-2))
 
 
-#### Others:
+#### Others (Generic):
 
 * [x] [Reverse engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2)
 * [x] [Reversing a self-modifying binary with radare2](https://www.megabeets.net/reversing-a-self-modifying-binary-with-radare2)
